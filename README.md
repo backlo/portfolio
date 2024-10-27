@@ -1,6 +1,6 @@
 # 포트폴리오
 
-## 1. [퍼플아이오 (2023.03 ~ )](https://github.com/backlo/portfolio/tree/master/purple-io)
+## 1. 퍼플아이오 (2023.03 ~ )
 
 ### 간단 소개
 
